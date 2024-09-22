@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Welcome! See also my main GitHub account [https://github.com/qosdil](@qosdil).
+
 <!--
 **irotikay/irotikay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

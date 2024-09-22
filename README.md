@@ -2,7 +2,7 @@
 
 Welcome! You can see some of my works here 🍢
 
-See also my main GitHub account [@qosdil](https://github.com/qosdil).
+See also my main GitHub account [here](https://github.com/qosdil).
 
 <!--
 **irotikay/irotikay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
